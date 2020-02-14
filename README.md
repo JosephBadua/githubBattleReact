@@ -4,7 +4,7 @@ React App (A React Fundamentals Course)
 <!---  LOGO   -->
 <div align="center">
 <p>
-<img src="./public/favicon.png" width="200"/>
+<img src="https://image.flaticon.com/icons/svg/25/25231.svg" width="200"/>
 </p>
 
 
