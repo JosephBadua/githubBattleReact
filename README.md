@@ -15,7 +15,7 @@ React App (A React Fundamentals Course)
 </a>
 &nbsp
 <a href="">
-  <img src="https://img.shields.io/badge/React-is%20dope%20%E2%AD%90-00D8FF.svg" />
+  <img src="https://img.shields.io/badge/React-is%20fun%20%E2%AD%90-00D8FF.svg" />
 </a>
 
 
